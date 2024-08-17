@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyborgcodeninja" alt="cyborgcodeninja" /></a> </p>
 
-- 🌱 I’m currently learning **r**
+- 🌱 I’m currently learning **C#, React**
 
 - 💬 Ask me about **Java,Kotlin,Python**
 
@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyborgcodeninja&show_icons=true&locale=en&layout=compact" alt="cyborgcodeninja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyborgcodeninja&show_icons=true&locale=en" alt="cyborgcodeninja" /></p>
-
